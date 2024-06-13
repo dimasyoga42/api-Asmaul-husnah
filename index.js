@@ -6,6 +6,7 @@ import router from "./routes/apiRouter.js"
 
 const app = express();
 //middleware
+app.use(cors());
 app.use(bodyParser.json());
 
 //endpoint
