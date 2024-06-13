@@ -1,0 +1,499 @@
+{
+    "AsmaulHusna": [
+        {
+            "name": "Ar-Rahman",
+            "arabic": "ٱلرَّحْمَـٰنُ",
+            "meaning": "Yang Maha Pengasih"
+        },
+        {
+            "name": "Ar-Rahim",
+            "arabic": "ٱلرَّحِيمُ",
+            "meaning": "Yang Maha Penyayang"
+        },
+        {
+            "name": "Al-Malik",
+            "arabic": "ٱلْمَلِكُ",
+            "meaning": "Yang Maha Merajai\/Memerintah"
+        },
+        {
+            "name": "Al-Quddus",
+            "arabic": "ٱلْقُدُّوسُ",
+            "meaning": "Yang Maha Suci"
+        },
+        {
+            "name": "As-Salam",
+            "arabic": "ٱلسَّلَامُ",
+            "meaning": "Yang Maha Memberi Kesejahteraan"
+        },
+        {
+            "name": "Al-Mu'min",
+            "arabic": "ٱلْمُؤْمِنُ",
+            "meaning": "Yang Maha Memberi Keamanan"
+        },
+        {
+            "name": "Al-Muhaymin",
+            "arabic": "ٱلْمُهَيْمِنُ",
+            "meaning": "Yang Maha Pemelihara"
+        },
+        {
+            "name": "Al-Aziz",
+            "arabic": "ٱلْعَزِيزُ",
+            "meaning": "Yang Maha Perkasa"
+        },
+        {
+            "name": "Al-Jabbar",
+            "arabic": "ٱلْجَبَّارُ",
+            "meaning": "Yang Maha Memiliki Mutlak Kegagahan"
+        },
+        {
+            "name": "Al-Mutakabbir",
+            "arabic": "ٱلْمُتَكَبِّرُ",
+            "meaning": "Yang Maha Megah, Yang Memiliki Kebesaran"
+        },
+        {
+            "name": "Al-Khaliq",
+            "arabic": "ٱلْخَالِقُ",
+            "meaning": "Yang Maha Pencipta"
+        },
+        {
+            "name": "Al-Bari'",
+            "arabic": "ٱلْبَارِئُ",
+            "meaning": "Yang Maha Melepaskan (Membuat, Membentuk, Menyeimbangkan)"
+        },
+        {
+            "name": "Al-Musawwir",
+            "arabic": "ٱلْمُصَوِّرُ",
+            "meaning": "Yang Maha Membentuk Rupa (makhluknya)"
+        },
+        {
+            "name": "Al-Ghaffar",
+            "arabic": "ٱلْغَفَّارُ",
+            "meaning": "Yang Maha Pengampun"
+        },
+        {
+            "name": "Al-Qahhar",
+            "arabic": "ٱلْقَهَّارُ",
+            "meaning": "Yang Maha Memaksa"
+        },
+        {
+            "name": "Al-Wahhab",
+            "arabic": "ٱلْوَهَّابُ",
+            "meaning": "Yang Maha Pemberi Karunia"
+        },
+        {
+            "name": "Ar-Razzaq",
+            "arabic": "ٱلرَّزَّاقُ",
+            "meaning": "Yang Maha Pemberi Rezeki"
+        },
+        {
+            "name": "Al-Fattah",
+            "arabic": "ٱلْفَتَّاحُ",
+            "meaning": "Yang Maha Pembuka Rahmat"
+        },
+        {
+            "name": "Al-'Alim",
+            "arabic": "ٱلْعَلِيمُ",
+            "meaning": "Yang Maha Mengetahui (Memiliki Ilmu)"
+        },
+        {
+            "name": "Al-Qabid",
+            "arabic": "ٱلْقَابِضُ",
+            "meaning": "Yang Maha Menyempitkan (makhluknya)"
+        },
+        {
+            "name": "Al-Basit",
+            "arabic": "ٱلْبَاسِطُ",
+            "meaning": "Yang Maha Melapangkan (makhluknya)"
+        },
+        {
+            "name": "Al-Khafid",
+            "arabic": "ٱلْخَافِضُ",
+            "meaning": "Yang Maha Merendahkan (makhluknya)"
+        },
+        {
+            "name": "Ar-Rafi'",
+            "arabic": "ٱلرَّافِعُ",
+            "meaning": "Yang Maha Meninggikan (makhluknya)"
+        },
+        {
+            "name": "Al-Mu'izz",
+            "arabic": "ٱلْمُعِزُّ",
+            "meaning": "Yang Maha Memuliakan (makhluknya)"
+        },
+        {
+            "name": "Al-Mudhill",
+            "arabic": "ٱلْمُذِلُّ",
+            "meaning": "Yang Maha Merendahkan (makhluknya)"
+        },
+        {
+            "name": "As-Sami'",
+            "arabic": "ٱلسَّمِيعُ",
+            "meaning": "Yang Maha Mendengar"
+        },
+        {
+            "name": "Al-Basir",
+            "arabic": "ٱلْبَصِيرُ",
+            "meaning": "Yang Maha Melihat"
+        },
+        {
+            "name": "Al-Hakam",
+            "arabic": "ٱلْحَكَمُ",
+            "meaning": "Yang Maha Menetapkan"
+        },
+        {
+            "name": "Al-'Adl",
+            "arabic": "ٱلْعَدْلُ",
+            "meaning": "Yang Maha Adil"
+        },
+        {
+            "name": "Al-Latif",
+            "arabic": "ٱللَّطِيفُ",
+            "meaning": "Yang Maha Lembut"
+        },
+        {
+            "name": "Al-Khabir",
+            "arabic": "ٱلْخَبِيرُ",
+            "meaning": "Yang Maha Mengenal"
+        },
+        {
+            "name": "Al-Halim",
+            "arabic": "ٱلْحَلِيمُ",
+            "meaning": "Yang Maha Penyantun"
+        },
+        {
+            "name": "Al-Azim",
+            "arabic": "ٱلْعَظِيمُ",
+            "meaning": "Yang Maha Agung"
+        },
+        {
+            "name": "Al-Ghafur",
+            "arabic": "ٱلْغَفُورُ",
+            "meaning": "Yang Maha Pengampun"
+        },
+        {
+            "name": "Ash-Shakur",
+            "arabic": "ٱلشَّكُورُ",
+            "meaning": "Yang Maha Pembalas Budi (Menghargai)"
+        },
+        {
+            "name": "Al-'Aliy",
+            "arabic": "ٱلْعَلِيُّ",
+            "meaning": "Yang Maha Tinggi"
+        },
+        {
+            "name": "Al-Kabir",
+            "arabic": "ٱلْكَبِيرُ",
+            "meaning": "Yang Maha Besar"
+        },
+        {
+            "name": "Al-Hafiz",
+            "arabic": "ٱلْحَفِيظُ",
+            "meaning": "Yang Maha Memelihara"
+        },
+        {
+            "name": "Al-Muqit",
+            "arabic": "ٱلْمُقِيتُ",
+            "meaning": "Yang Maha Pemberi Kekuatan"
+        },
+        {
+            "name": "Al-Hasib",
+            "arabic": "ٱلْحسِيبُ",
+            "meaning": "Yang Maha Membuat Perhitungan"
+        },
+        {
+            "name": "Al-Jalil",
+            "arabic": "ٱلْجَلِيلُ",
+            "meaning": "Yang Maha Luhur"
+        },
+        {
+            "name": "Al-Karim",
+            "arabic": "ٱلْكَرِيمُ",
+            "meaning": "Yang Maha Mulia"
+        },
+        {
+            "name": "Ar-Raqib",
+            "arabic": "ٱلرَّقِيبُ",
+            "meaning": "Yang Maha Mengawasi"
+        },
+        {
+            "name": "Al-Mujib",
+            "arabic": "ٱلْمُجِيبُ",
+            "meaning": "Yang Maha Mengabulkan"
+        },
+        {
+            "name": "Al-Wasi'",
+            "arabic": "ٱلْوَاسِعُ",
+            "meaning": "Yang Maha Luas"
+        },
+        {
+            "name": "Al-Hakim",
+            "arabic": "ٱلْحَكِيمُ",
+            "meaning": "Yang Maha Bijaksana"
+        },
+        {
+            "name": "Al-Wadud",
+            "arabic": "ٱلْوَدُودُ",
+            "meaning": "Yang Maha Mengasihi"
+        },
+        {
+            "name": "Al-Majid",
+            "arabic": "ٱلْمَجِيدُ",
+            "meaning": "Yang Maha Mulia"
+        },
+        {
+            "name": "Al-Ba'ith",
+            "arabic": "ٱلْبَاعِثُ",
+            "meaning": "Yang Maha Membangkitkan"
+        },
+        {
+            "name": "Ash-Shahid",
+            "arabic": "ٱلشَّهِيدُ",
+            "meaning": "Yang Maha Menyaksikan"
+        },
+        {
+            "name": "Al-Haqq",
+            "arabic": "ٱلْحَقُ",
+            "meaning": "Yang Maha Benar"
+        },
+        {
+            "name": "Al-Wakil",
+            "arabic": "ٱلْوَكِيلُ",
+            "meaning": "Yang Maha Memelihara"
+        },
+        {
+            "name": "Al-Qawiyy",
+            "arabic": "ٱلْقَوِيُ",
+            "meaning": "Yang Maha Kuat"
+        },
+        {
+            "name": "Al-Matin",
+            "arabic": "ٱلْمَتِينُ",
+            "meaning": "Yang Maha Kokoh"
+        },
+        {
+            "name": "Al-Waliyy",
+            "arabic": "ٱلْوَلِيُّ",
+            "meaning": "Yang Maha Melindungi"
+        },
+        {
+            "name": "Al-Hamid",
+            "arabic": "ٱلْحَمِيدُ",
+            "meaning": "Yang Maha Terpuji"
+        },
+        {
+            "name": "Al-Muhshi",
+            "arabic": "ٱلْمُحْصِي",
+            "meaning": "Yang Maha Mengalkulasi"
+        },
+        {
+            "name": "Al-Mubdi'",
+            "arabic": "ٱلْمُبْدِئُ",
+            "meaning": "Yang Maha Memulai"
+        },
+        {
+            "name": "Al-Mu'id",
+            "arabic": "ٱلْمُعِيدُ",
+            "meaning": "Yang Maha Mengembalikan Kehidupan"
+        },
+        {
+            "name": "Al-Muhyi",
+            "arabic": "ٱلْمُحْيِي",
+            "meaning": "Yang Maha Menghidupkan"
+        },
+        {
+            "name": "Al-Mumit",
+            "arabic": "ٱلْمُمِيتُ",
+            "meaning": "Yang Maha Mematikan"
+        },
+        {
+            "name": "Al-Hayy",
+            "arabic": "ٱلْحَيُّ",
+            "meaning": "Yang Maha Hidup"
+        },
+        {
+            "name": "Al-Qayyum",
+            "arabic": "ٱلْقَيُّومُ",
+            "meaning": "Yang Maha Mandiri"
+        },
+        {
+            "name": "Al-Wajid",
+            "arabic": "ٱلْوَاجِدُ",
+            "meaning": "Yang Maha Penemu"
+        },
+        {
+            "name": "Al-Majid",
+            "arabic": "ٱلْمَاجِدُ",
+            "meaning": "Yang Maha Mulia"
+        },
+        {
+            "name": "Al-Wahid",
+            "arabic": "ٱلْواحِدُ",
+            "meaning": "Yang Maha Tunggal"
+        },
+        {
+            "name": "Al-Ahad",
+            "arabic": "ٱلْأَحَدُ",
+            "meaning": "Yang Maha Esa"
+        },
+        {
+            "name": "As-Samad",
+            "arabic": "ٱلصَّمَدُ",
+            "meaning": "Yang Maha Dibutuhkan, Tempat Meminta"
+        },
+        {
+            "name": "Al-Qadir",
+            "arabic": "ٱلْقَادِرُ",
+            "meaning": "Yang Maha Menentukan, Maha Menyeimbangkan"
+        },
+        {
+            "name": "Al-Muqtadir",
+            "arabic": "ٱلْمُقْتَدِرُ",
+            "meaning": "Yang Maha Berkuasa"
+        },
+        {
+            "name": "Al-Muqaddim",
+            "arabic": "ٱلْمُقَدِّمُ",
+            "meaning": "Yang Maha Mendahulukan"
+        },
+        {
+            "name": "Al-Mu'akhkhir",
+            "arabic": "ٱلْمُؤَخِّرُ",
+            "meaning": "Yang Maha Mengakhirkan"
+        },
+        {
+            "name": "Al-Awwal",
+            "arabic": "ٱلأَوَّلُ",
+            "meaning": "Yang Maha Awal"
+        },
+        {
+            "name": "Al-Akhir",
+            "arabic": "ٱلآخِرُ",
+            "meaning": "Yang Maha Akhir"
+        },
+        {
+            "name": "Az-Zahir",
+            "arabic": "ٱلظَّاهِرُ",
+            "meaning": "Yang Maha Nyata"
+        },
+        {
+            "name": "Al-Batin",
+            "arabic": "ٱلْبَاطِنُ",
+            "meaning": "Yang Maha Ghaib"
+        },
+        {
+            "name": "Al-Wali",
+            "arabic": "ٱلْوَالِي",
+            "meaning": "Yang Maha Memerintah"
+        },
+        {
+            "name": "Al-Muta'ali",
+            "arabic": "ٱلْمُتَعَالِي",
+            "meaning": "Yang Maha Tinggi"
+        },
+        {
+            "name": "Al-Barr",
+            "arabic": "ٱلْبَرُّ",
+            "meaning": "Yang Maha Penderma"
+        },
+        {
+            "name": "At-Tawwab",
+            "arabic": "ٱلتَّوَّابُ",
+            "meaning": "Yang Maha Penerima Tobat"
+        },
+        {
+            "name": "Al-Muntaqim",
+            "arabic": "ٱلْمُنْتَقِمُ",
+            "meaning": "Yang Maha Pemberi Balasan"
+        },
+        {
+            "name": "Al-'Afuww",
+            "arabic": "ٱلْعَفُوُ",
+            "meaning": "Yang Maha Pemaaf"
+        },
+        {
+            "name": "Ar-Ra'uf",
+            "arabic": "ٱلرَّؤُوفُ",
+            "meaning": "Yang Maha Pengasuh"
+        },
+        {
+            "name": "Malikul-Mulk",
+            "arabic": "مَالِكُ ٱلْمُلْكُ",
+            "meaning": "Yang Maha Penguasa Kerajaan (Semesta)"
+        },
+        {
+            "name": "Dhul-Jalali wal-Ikram",
+            "arabic": "ذُوالْجَلاَلِ وَالإكْرَامِ",
+            "meaning": "Yang Maha Pemilik Kebesaran dan Kemuliaan"
+        },
+        {
+            "name": "Al-Muqsit",
+            "arabic": "ٱلْمُقْسِطُ",
+            "meaning": "Yang Maha Pemberi Keadilan"
+        },
+        {
+            "name": "Al-Jami'",
+            "arabic": "ٱلْجَامِعُ",
+            "meaning": "Yang Maha Mengumpulkan"
+        },
+        {
+            "name": "Al-Ghaniyy",
+            "arabic": "ٱلْغَنيُ",
+            "meaning": "Yang Maha Kaya"
+        },
+        {
+            "name": "Al-Mughni",
+            "arabic": "ٱلْمُغْنِيُ",
+            "meaning": "Yang Maha Memberi Kekayaan"
+        },
+        {
+            "name": "Al-Mani'",
+            "arabic": "ٱلْمَانِعُ",
+            "meaning": "Yang Maha Mencegah"
+        },
+        {
+            "name": "Ad-Darr",
+            "arabic": "ٱلضَّارَ",
+            "meaning": "Yang Maha Penimpa Kemudharatan"
+        },
+        {
+            "name": "An-Nafi'",
+            "arabic": "ٱلنَّافِعُ",
+            "meaning": "Yang Maha Memberi Manfaat"
+        },
+        {
+            "name": "An-Nur",
+            "arabic": "ٱلنُّورُ",
+            "meaning": "Yang Maha Bercahaya (Menerangi, Memberi Cahaya)"
+        },
+        {
+            "name": "Al-Hadi",
+            "arabic": "ٱلْهَادِي",
+            "meaning": "Yang Maha Pemberi Petunjuk"
+        },
+        {
+            "name": "Al-Badi'",
+            "arabic": "ٱلْبَدِيعُ",
+            "meaning": "Yang Maha Pencipta"
+        },
+        {
+            "name": "Al-Baqi",
+            "arabic": "ٱلْبَاقِي",
+            "meaning": "Yang Maha Kekal"
+        },
+        {
+            "name": "Al-Warith",
+            "arabic": "ٱلْوَارِثُ",
+            "meaning": "Yang Maha Pewaris"
+        },
+        {
+            "name": "Ar-Rashid",
+            "arabic": "ٱلرَّشِيدُ",
+            "meaning": "Yang Maha Pandai"
+        },
+        {
+            "name": "As-Sabur",
+            "arabic": "ٱلصَّبُورُ",
+            "meaning": "Yang Maha Sabar"
+        }
+    ]
+}
